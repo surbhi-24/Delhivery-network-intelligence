@@ -1,0 +1,37 @@
+# Data files (too large for git)
+delivery_data.csv
+data/processed/*.csv
+
+# Model binaries
+models/*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules (for generate_ppt.js)
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temp / scratch files
+~$*
