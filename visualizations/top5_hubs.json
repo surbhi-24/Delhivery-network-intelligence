@@ -1,0 +1,42 @@
+[
+  {
+    "rank": 1,
+    "center_id": "IND000000ACB",
+    "hub_name": "Gurgaon_Bilaspur_HB (Haryana)",
+    "betweenness": 0.08689,
+    "avg_sla_breach_rate": 0.858,
+    "composite_score": 7.45
+  },
+  {
+    "rank": 2,
+    "center_id": "IND562132AAA",
+    "hub_name": "Bangalore_Nelmngla_H (Karnataka)",
+    "betweenness": 0.03196,
+    "avg_sla_breach_rate": 0.879,
+    "composite_score": 2.81
+  },
+  {
+    "rank": 3,
+    "center_id": "IND712311AAA",
+    "hub_name": "Kolkata_Dankuni_HB (West Bengal)",
+    "betweenness": 0.02818,
+    "avg_sla_breach_rate": 0.962,
+    "composite_score": 2.71
+  },
+  {
+    "rank": 4,
+    "center_id": "IND501359AAE",
+    "hub_name": "Hyderabad_Shamshbd_H (Telangana)",
+    "betweenness": 0.02733,
+    "avg_sla_breach_rate": 0.857,
+    "composite_score": 2.34
+  },
+  {
+    "rank": 5,
+    "center_id": "IND160002AAC",
+    "hub_name": "Chandigarh_Mehmdpur_H (Punjab)",
+    "betweenness": 0.0197,
+    "avg_sla_breach_rate": 0.886,
+    "composite_score": 1.75
+  }
+]

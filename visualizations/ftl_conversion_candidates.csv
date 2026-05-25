@@ -1,0 +1,16 @@
+source_name,destination_name,avg_delay,trip_count,sla_breach_rate,source_betweenness,conversion_priority_score
+Gurgaon_Bilaspur_HB (Haryana),Delhi_Kishangarh_DPC (Delhi),2.03125,28,1.0,0.086894645903623,19.68172494917342
+Gurgaon_Bilaspur_HB (Haryana),Delhi_PunjabiB_L (Delhi),2.0,23,1.0,0.086894645903623,19.3789291807246
+Gurgaon_Bilaspur_HB (Haryana),Sonipat_Kundli_H (Haryana),2.03125,92,0.8804347826086957,0.086894645903623,17.328475226989646
+Gurgaon_Bilaspur_HB (Haryana),Noida_Sector63_L (Uttar Pradesh),1.7647058823529411,39,1.0,0.086894645903623,17.099055159462882
+Gurgaon_Bilaspur_HB (Haryana),Delhi_Rohini_DPC (Delhi),1.6,24,0.9583333333333334,0.086894645903623,14.857179038555529
+Kolkata_Dankuni_HB (West Bengal),Kolkata_TrtllaRD_L (West Bengal),3.797554347826087,30,1.0,0.0281767293300702,14.497820445318778
+Gurgaon_Bilaspur_HB (Haryana),FBD_Balabhgarh_DPC (Haryana),1.5625,31,0.9354838709677419,0.086894645903623,14.163027879057799
+Gurgaon_Bilaspur_HB (Haryana),Delhi_Nangli_IP (Delhi),1.6363636363636365,17,0.8235294117647058,0.086894645903623,13.057460303589838
+Gurgaon_Bilaspur_HB (Haryana),Faridabad_Mthurard_L (Haryana),1.5,57,0.8947368421052632,0.086894645903623,13.004281423907297
+Kolkata_Dankuni_HB (West Bengal),CCU_New Alipore_DPC (West Bengal),2.9473684210526314,15,1.0,0.0281767293300702,11.252088644652268
+Kolkata_Dankuni_HB (West Bengal),CCU_Beliaghata_DPC (West Bengal),2.9375,29,1.0,0.0281767293300702,11.214414240708122
+Kolkata_Dankuni_HB (West Bengal),CCU_DumDum_DPC (West Bengal),2.9166666666666665,23,1.0,0.0281767293300702,11.134879387937142
+Bangalore_Nelmngla_H (Karnataka),Bengaluru_KHRoad_I (Karnataka),2.4166666666666665,25,0.92,0.0319583358315119,9.328736666539479
+Surat_Central_D_12 (Gujarat),Surat_Central_I_4 (Gujarat),9.0,13,1.0,0.0,9.0
+Kanpur_Central_H_6 (Uttar Pradesh),Kanpur_Rawatpur_D (Uttar Pradesh),5.309523809523809,18,1.0,0.0062812385878659,8.644562393081179

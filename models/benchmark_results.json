@@ -1,0 +1,8 @@
+{
+  "baseline_mae": 0.695,
+  "graph_mae": 0.5122,
+  "baseline_acc15": 31.77,
+  "graph_acc15": 46.55,
+  "mae_improvement_pct": 25.8,
+  "n_test_samples": 2956
+}
